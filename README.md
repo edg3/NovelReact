@@ -6,8 +6,8 @@ A React Native app for writing novels, supporting both Android and iOS platforms
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/githubnext/workspace-blank.git
-   cd workspace-blank
+   git clone https://github.com/edg3/NovelReact.git
+   cd NovelReact
    ```
 
 2. Install dependencies:
