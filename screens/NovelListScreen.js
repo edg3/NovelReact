@@ -34,6 +34,8 @@ const NovelListScreen = ({ navigation }) => {
       />
     </View>
   );
+  
+  console.log('NovelListScreen rendered');
 
   return (
     <View style={styles.container}>

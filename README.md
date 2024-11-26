@@ -12,6 +12,7 @@ A React Native app for writing novels, supporting both Android and iOS platforms
 
 2. Install dependencies:
    ```sh
+   npm init -y
    npm install
    ```
 
@@ -23,6 +24,16 @@ A React Native app for writing novels, supporting both Android and iOS platforms
    ```
 
 4. Set up the Android development environment by following the official React Native documentation: [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
+
+   ```sh
+   npm install --global yarn
+   yarn add expo
+   npm install metro
+   npm install react-native-sqlite-storage
+   npx expo start
+   ```
+
+See: [Start building with Expo](https://docs.expo.dev/get-started/set-up-your-environment/)
 
 ## Running the app on an Android emulator
 
